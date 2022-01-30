@@ -1,7 +1,7 @@
 # Hello, world!
 <br>
 
-<strong>I'm mentee at Cloud Girls, a web development student, here you will see my creations and new learning.</strong>
+<strong>I'm Software Engineer, here you will see my creations and  works.</strong>
 <br><br>
 <strong>Contact me https://www.linkedin.com/in/joanne-silva-1832095a </strong>
 <br><br>
